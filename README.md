@@ -24,11 +24,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/E24ryp8.gif)
+
 
 ## Notes
 
-The biggest challenge when I was creating this app was getting used to the macOS system. I've been using Windows computers for my entire life, so using a macOS system was definitely difficult to do. I only purchased my MacBook yesterday, before I applied for the CodePath iOS course, so I hadn't had much of a chance to get used to it either. What I've done in this program does not seem like much, however given these aforementioned circumstances, I'm extremely proud of what I was able to accomplish today.s  
+The biggest challenge when I was creating this app was getting used to the macOS system. I've been using Windows computers for my entire life, so using a macOS system was definitely difficult to do. I only purchased my MacBook yesterday, before I applied for the CodePath iOS course, so I hadn't had much of a chance to get used to it either. What I've done in this program does not seem like much, however given these aforementioned circumstances, I'm extremely proud of what I was able to accomplish today. 
 
 ## License
 
